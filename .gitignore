@@ -1,0 +1,13 @@
+*.gbl
+*.gbs
+*.gbp
+*.gbo
+*.gm1
+*.gtl
+*.gts
+*.gtp
+*.gto
+*.drl
+*.kicad_pcb-bak
+*.sch-bak
+fp-info-cache
